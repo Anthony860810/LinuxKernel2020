@@ -1,0 +1,1 @@
+obj-y	:=	enter_wait_queue.o

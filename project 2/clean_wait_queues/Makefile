@@ -1,0 +1,1 @@
+obj-y	:=	clean_wait_queues.o

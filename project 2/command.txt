@@ -1,0 +1,4 @@
+./enter_queue
+./enter_queue
+./enter_queue
+./clean_queue

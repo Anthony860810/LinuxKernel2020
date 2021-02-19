@@ -1,0 +1,1 @@
+obj-y	:=	vaddr2paddr.o
